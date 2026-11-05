@@ -9,7 +9,7 @@ Projeto 01: Cadastro de Alunos (CRUD com índice único).
 
 ### Se nao funcionar com python execute com .venv\Scripts\python.exe
 
-#### Sempre que quiser adicionar algo no reositorio Github
+#### Sempre que quiser adicionar algo no repositorio Github
 1. git add .
 2. git commit -m "Descreva o que mudou"
 3. git push
